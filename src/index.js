@@ -1,0 +1,1 @@
+export { default as BoxWhiskerPlot } from "./components/BoxWhiskerPlot";
